@@ -13,11 +13,11 @@
     "ejs": "~2.5.2",
     "express": "~4.14.0",
     "jquery": "^3.1.1",
+    "mongoose": "^4.8.5",
     "morgan": "~1.7.0",
     "multer": "^1.2.1",
     "mysql": "^2.12.0",
     "node-gyp": "^3.5.0",
-    "orientjs": "^2.2.4",
     "serve-favicon": "~2.3.0",
     "socket.io": "^1.7.2",
     "underscore": "^1.8.3"
